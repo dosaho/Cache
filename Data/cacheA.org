@@ -1,0 +1,8 @@
+# Addressing Bus : 32 bits (a31 a30 ... a1 a0 )     
+M 32
+# Cache Size: 128 bytes
+S 128
+# Entry Size: 4 bytes 
+L 4
+# 1-way associative
+A 1
